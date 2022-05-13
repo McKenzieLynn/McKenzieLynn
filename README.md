@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Kenzie** :)
-- 👀 I’m interested in coffee, video games, programming, all the geeky things
+- 👀 I’m interested in coffee, video games, and programming
 - 🌱 I’m currently learning GitHub / Relearning GitBash
 - 💞️ I’m looking to collaborate on anything :-)
 - 📫 How to reach me :
